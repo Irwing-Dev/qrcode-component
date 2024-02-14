@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot-of-qr-code-component.png)
+![](./src/images/screenshot-of-qr-code-component.png)
 
 ## My process
 
@@ -36,5 +36,5 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Frontend Mentor - [@IrwingDec](https://www.frontendmentor.io/profile/Irwing-Dev)
+- Frontend Mentor - [@IrwingDev](https://www.frontendmentor.io/profile/Irwing-Dev)
 - Github - [@IrwingDev](https://www.github.com/Irwing-Dev)
